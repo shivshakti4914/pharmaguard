@@ -6,9 +6,8 @@
 
 ## Live Demo & Links
 
-- **Live App:** `https://pharma-guard.vercel.app` *(deploy to update)*
-- **API Docs:** `https://pharma-guard-api.onrender.com/docs`
-- **LinkedIn Demo:** *(add after recording)*
+- **Live App:** (https://pharmaguard-green.vercel.app/)
+- **API Docs:** https://pharmaguard-1-fp7v.onrender.com/
 - **GitHub:** *(this repo)*
 
 ---
